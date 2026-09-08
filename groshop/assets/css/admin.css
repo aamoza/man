@@ -1,0 +1,44 @@
+.groshop-admin-wrap {
+    direction: rtl;
+    max-width: 1000px;
+    margin-top: 20px;
+}
+
+.groshop-admin-wrap h1 {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.groshop-admin-wrap .nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.groshop-badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.groshop-badge-success {
+    background-color: #dcfce7;
+    color: #166534;
+    border: 1px solid #bbf7d0;
+}
+
+.groshop-badge-error {
+    background-color: #fee2e2;
+    color: #991b1b;
+    border: 1px solid #fecaca;
+}
+
+.groshop-admin-wrap table.form-table th {
+    width: 200px;
+}
+
+.groshop-admin-wrap code {
+    direction: ltr;
+    display: inline-block;
+}
